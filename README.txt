@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/stress-prediction.git
+git clone https://github.com/zzLeon/stress-prediction.git
 Navigate to the project directory:
 
 bash
